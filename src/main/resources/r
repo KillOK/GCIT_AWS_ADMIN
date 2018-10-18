@@ -1,2 +1,2 @@
 spring.jackson.serialization.fail-on-empty-beans=false
-Just to test
+Just to test webhook
