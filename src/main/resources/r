@@ -1,7 +1,2 @@
 spring.jackson.serialization.fail-on-empty-beans=false
 Just to test
-<<<<<<< HEAD
-Conflict
-=======
-Something went wrong
->>>>>>> b67ec8a1154aa84927a5e20399c0f4ce00bc2e10
